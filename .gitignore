@@ -1,0 +1,13 @@
+/EventPlanner.Dto/bin/
+/EventPlanner.Dto/obj/
+
+/EventPlanner/Client/bin/
+/EventPlanner/Client/obj/
+
+/EventPlanner/Server/bin/
+/EventPlanner/Server/obj/
+
+/EventPlanner/Shared/obj/
+/EventPlanner/Shared/bin/
+
+/.vs/
